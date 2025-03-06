@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Nunito", serif;
+}
+
+h1, h2, h3, .bold {
+  font-family: "Ubuntu", serif;
+}
